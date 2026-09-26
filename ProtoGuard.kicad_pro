@@ -661,7 +661,7 @@
         "uuid": "80463234-1a97-4ede-b55a-19bcc02908dd"
       }
     ],
-    "used_designators": "DS1,U1-5,F1,Q1,D2-5,C1-2,C7-17,#PWR1-24,#PWR37,#PWR40-41,FB1,J1,OLED1,#FLG1-2,R1-2,R4-9,R12,L2",
+    "used_designators": "DS1,U1-6,F1,FB1,Q1-4,D2-5,#PWR1-38,#PWR40-41,C1-2,C7-17,J1,OLED1,#FLG1-2,R1-2,R4-15,L2,SW1",
     "variants": []
   },
   "sheets": [
